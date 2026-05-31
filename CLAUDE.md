@@ -1,6 +1,6 @@
-# CLAUDE.md — entry point for AI agents working in {{PROJECT}}
+# CLAUDE.md — entry point for AI agents working in noripaper
 
-**You are working on `{{PROJECT}}` (a project of the `norikit` org): {{TAGLINE}}.**
+**You are working on `noripaper` (a project of the `norikit` org): a norikit tool (purpose TBD).**
 
 This file is the front door. Before doing substantive work, read the knowledge base.
 
