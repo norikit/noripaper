@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/norikit/norikit/main/assets/noripaper/hero/dark_theme.svg"/>
@@ -8,8 +7,8 @@
 </p>
 
 <p align="center">
-  <strong>noripaper</strong> is a norikit tool (purpose TBD) for the <strong>norikit</strong> ecosystem.<br/>
-  Purpose not yet defined.
+  <strong>noripaper</strong> — a wallpaper engine for static and animated wallpapers.<br/>
+  Part of the <strong>norikit</strong> ecosystem.
 </p>
 
 > [!NOTE]
@@ -33,7 +32,6 @@ tracked under **[`tasks/`](tasks/)**.
 
 Requires macOS 13+.
 
-<!-- TEMPLATE: document the headless self-test invocation and the real run invocation. -->
 
 ## License
 
